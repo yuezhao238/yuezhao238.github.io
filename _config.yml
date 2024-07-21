@@ -22,11 +22,11 @@ repository               : "Heathcliff-Zhao/Heathcliff-Zhao.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Yue Zhao"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Undergraduate student at Beijing University of Posts and Telecommunications"
+  location         : "China"
+  employer         : # "Red Brick University"
   uri              : # URL
   email            : "zhaoyue20238@gmail.com" 
 
