@@ -25,7 +25,7 @@ author:
   name             : "Yue Zhao(赵越)"
   pronouns         : # example: "she/her"  
   bio              : "Undergraduate student at BUPT"
-  location         : "China"
+  location         : # "China"
   employer         : # "Red Brick University"
   uri              : # URL
   email            : "zhaoyue20238@gmail.com" 
@@ -34,7 +34,7 @@ author:
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?&user=c7i8o70AAAAJ"
   impactstory      : # URL
-  orcid            : "http://orcid.org/0009-0005-7918-6489"
+  orcid            : # "http://orcid.org/0009-0005-7918-6489"
   semantic         : # URL
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
