@@ -20,4 +20,4 @@ My recent research interests include Artificial Intelligence, Physics Engine.
 * Wentong Chen, Junbo Cui, Jinyi Hu, Yujia Qin, Junjie Fang, **Yue Zhao**, Chongyi Wang, Jun Liu, Guirong Chen, Yupeng Huo, Yuan Yao, Yankai Lin, Zhiyuan Liu, Maosong Sun. [**GUICourse: From General Vision Language Models to Versatile GUI Agents**](https://arxiv.org/abs/2406.11317). arXiv preprint arXiv:2406.11317, 2024.
 
 ### 2023
-* Tianyu Yu, Jinyi Hu, Yuan Yao, Haoyu Zhang, **Yue Zhao**, Chongyi Wang, Shan Wang, Yinxu Pan, Jiao Xue, Dahai Li, Zhiyuan Liu, Hai-Tao Zheng, Maosong Sun. [**Reformulating vision-language foundation models and datasets towards universal multimodal assistants**](https://arxiv.org/abs/2310.00653). arXiv preprint arXiv:2310.00653, 2023.
+* Tianyu Yu, Jinyi Hu, Yuan Yao, Haoye Zhang, **Yue Zhao**, Chongyi Wang, Shan Wang, Yinxu Pan, Jiao Xue, Dahai Li, Zhiyuan Liu, Hai-Tao Zheng, Maosong Sun. [**Reformulating vision-language foundation models and datasets towards universal multimodal assistants**](https://arxiv.org/abs/2310.00653). arXiv preprint arXiv:2310.00653, 2023.
