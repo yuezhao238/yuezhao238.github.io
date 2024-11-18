@@ -9,7 +9,7 @@ redirect_from:
 
 I am a undergraduate student at BUPT.
 
-My recent research interests include Artificial Intelligence, Physics Engine.
+My recent research interests include Large Language Models, Large Vision Language Models.
 
 ## Publications
 ### 2023
