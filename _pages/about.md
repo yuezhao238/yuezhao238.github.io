@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a undergraduate student at BUPT.
+I am an undergraduate student at BUPT.
 
 My recent research interests include Large Language Models, Large Vision Language Models.
 
