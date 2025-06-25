@@ -9,7 +9,7 @@ redirect_from:
 
 I am an undergraduate student at BUPT.
 
-My recent research interests include Large Language Models, Large Vision Language Models.
+My recent research interests include Image-to-3D, Video Generation, Large Language Models and anything related to core AI technologies.
 
 ## Publications
 ### 2024
