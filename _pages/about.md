@@ -12,10 +12,10 @@ I am an undergraduate student at BUPT.
 My recent research interests include Large Language Models, Large Vision Language Models.
 
 ## Publications
-### 2023
+### 2024
 * Jinyi Hu, Yuan Yao, Chongyi Wang, Shan Wang, Yinxu Pan, Qianyu Chen, Tianyu Yu, Hanghao Wu, **Yue Zhao**, Haoyu Zhang, Xu Han, Yankai Lin, Jiao Xue, Dahai Li, Zhiyuan Liu, Maosong Sun. [**Large multilingual models pivot zero-shot multimodal learning across languages**](https://arxiv.org/abs/2308.12038). ICLR 2024 (**Spotlight**).
 
-### 2024
+### 2025
 * Wentong Chen, Junbo Cui, Jinyi Hu, Yujia Qin, Junjie Fang, **Yue Zhao**, Chongyi Wang, Jun Liu, Guirong Chen, Yupeng Huo, Yuan Yao, Yankai Lin, Zhiyuan Liu, Maosong Sun. [**GUICourse: From General Vision Language Models to Versatile GUI Agents**](https://arxiv.org/abs/2406.11317). ACL 2025 (**Main**).
 
 ## Preprints
