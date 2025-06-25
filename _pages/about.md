@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an undergraduate student at BUPT.
+I am an incoming Ph.D. student from the College of AI, Tsinghua University, advised by Professor Wei Xu. I received my bachelor's degree from Beijing University of Posts and Telecommunications (BUPT) in 2025.
 
 My recent research interests include Image-to-3D, Video Generation, Large Language Models and anything related to core AI technologies.
 
